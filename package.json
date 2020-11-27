@@ -1,0 +1,21 @@
+{
+  "name": "grpc-sandbox",
+  "version": "0.0.1",
+  "description": "My gRPC trial codes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayutaedomo/grpc-sandbox.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.5",
+    "google-protobuf": "^3.14.0",
+    "grpc": "^1.24.4"
+  },
+  "devDependencies": {
+    "grpc-tools": "^1.10.0"
+  }
+}
