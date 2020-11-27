@@ -1,0 +1,16 @@
+{
+  "name": "grpc-sandbox",
+  "version": "0.0.1",
+  "description": "My gRPC trial codes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayutaedomo/grpc-sandbox.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "grpc": "^1.24.4"
+  }
+}
